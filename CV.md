@@ -8,7 +8,7 @@ Moskalev Daniil
 ## 2. Contact Information
 - Phone: +375296632389
 - Email: dan4a04@gmail.com
-- Contacts: [telegram](https://t.me/sf)
+- Contacts: [telegram](https://t.me/sf),[VK](https://vk.com/feed)
 
 ## 3. About Me
 In addition to my technical skills, I am also a good communicator and I have a strong work ethic. I am confident that I can quickly become a productive member of your team and contribute to the success of your organization.
