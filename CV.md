@@ -13,7 +13,7 @@ Moskalev Daniil
 ## 3. About Me
 In addition to my technical skills, I am also a good communicator and I have a strong work ethic. I am confident that I can quickly become a productive member of your team and contribute to the success of your organization.
 ## 4. Skills
-- Programming Languages: Java, C#, SQL
+- Programming Languages: Java, C#, SQL, C++
 - Web Development: HTML/CSS, JavaScript
 - Version Control: Git
 - Development Tools: Visual Studio Code,Visual Studio, IntelliJ IDEA
